@@ -1,9 +1,4 @@
 {
-  "name": "avijatri-player",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
   "homepage": "https://smmondal29.github.io/avijatri-player",
   "name": "avijatri-player",
   "private": true,
@@ -17,8 +12,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  ...
-}
   "dependencies": {
     "lucide-react": "^1.66.0",
     "react": "^19.3.1",
